@@ -6,10 +6,7 @@ package utlis;
 
 import jakarta.servlet.http.HttpServletRequest;
 
-/**
- *
- * @author dinhd513
- */
+
 
     public class GetParam {
      /**

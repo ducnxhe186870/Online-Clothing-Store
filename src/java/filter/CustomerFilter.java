@@ -18,10 +18,7 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import models.Account;
 
-/**
- *
- * @author dinhd513
- */
+
 public class CustomerFilter implements Filter {
 
     private static final boolean debug = true;

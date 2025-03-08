@@ -1,8 +1,4 @@
-<%-- 
-    Document   : StockManage
-    Created on : February 18, 2025, 8:02:00 AM
-    Author     : ducnx
---%>
+
 
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

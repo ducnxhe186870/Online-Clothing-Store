@@ -53,11 +53,11 @@ public class ForgotPasswordServlet extends HttpServlet {
             String subject = "Verification Email";
             String text = "Hello\n"
                     + "\n"
-                    + "You have just requested a password reset for your account on the Front page.\n"
+                    + "You have just requested a password reset for your account on the Clothes Store  page.\n"
                     + "Below is the verification code that the requester is you\n " + code + "\n"
                     + "\n"
                     + "\n"
-                    + "Kind Regards, Front";
+                    + "Kind Regards, Clothes Store ";
             SendMail send = new SendMail();
             send.SendGmail(gmail, subject, text);
             return true;

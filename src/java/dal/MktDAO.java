@@ -16,10 +16,7 @@ import models.Product;
 import models.Size;
 import models.Stock;
 
-/**
- *
- * @author dinhd513
- */
+
 public class MktDAO {
 
     Connection conn = null;        // keets noois sql

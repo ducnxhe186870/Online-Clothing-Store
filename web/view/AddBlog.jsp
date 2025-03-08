@@ -26,9 +26,10 @@
 <body>
     <!-- SIDEBAR -->
     <section id="sidebar">
+        
         <a href="#" class="brand">
-            <i class='bx bxs-smile'></i>
-            <span class="text">Front:</span>
+           
+            <span class="text">Clothes Store </span>
         </a>
         <ul class="side-menu top">
             <li class="active">

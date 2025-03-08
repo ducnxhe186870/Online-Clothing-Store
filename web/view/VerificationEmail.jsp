@@ -13,7 +13,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
     </head>
     <body>
-        <h2 style="font-size: 55px; font-family: 'Lobster', cursive;">Front</h2>
+        <h2 style="font-size: 55px; font-family: 'Lobster', cursive;">Clothes Store</h2>
         <div class="container">
             <form action="../view/acctive" method="post">
                 <div class="row">

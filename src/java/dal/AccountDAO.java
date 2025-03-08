@@ -12,10 +12,7 @@ import java.util.List;
 import models.Account;
 import models.Address;
 
-/**
- *
- * @author dinhd513
- */
+
 public class AccountDAO {
 
     Connection conn = null;        // keets noois sql

@@ -4,10 +4,7 @@
  */
 package models;
 
-/**
- *
- * @author dinhd513
- */
+
 public class CustomerFeedback {
     private int proID;
     private int rateStar;

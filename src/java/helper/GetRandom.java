@@ -6,10 +6,7 @@ package helper;
 
 import java.util.Random;
 
-/**
- *
- * @author dinhd513
- */
+
 public class GetRandom {
     
     public static String generateRandomNumber(int length) {

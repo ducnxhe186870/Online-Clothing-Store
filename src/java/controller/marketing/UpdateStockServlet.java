@@ -21,10 +21,7 @@ import models.Size;
 import models.Stock;
 import utlis.GetParam;
 
-/**
- *
- * @author dinhd513
- */
+
 public class UpdateStockServlet extends HttpServlet {
 
     /**

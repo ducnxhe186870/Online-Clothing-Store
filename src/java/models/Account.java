@@ -4,10 +4,7 @@
  */
 package models;
 
-/**
- *
- * @author dinhd513
- */
+
 public class Account {
     
     private String gmail;

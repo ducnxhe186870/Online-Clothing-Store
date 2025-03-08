@@ -24,10 +24,7 @@ import models.ProductImage;
 import models.Size;
 import models.Stock;
 
-/**
- *
- * @author dinhd513
- */
+
 public class MktSearchServlet extends HttpServlet {
    
     /** 

@@ -22,10 +22,7 @@ import models.Product;
 import models.ProductImage;
 import models.Size;
 
-/**
- *
- * @author dinhd513
- */
+
 public class MktDashboardServlet extends HttpServlet {
 
     /**

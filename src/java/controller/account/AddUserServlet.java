@@ -95,7 +95,7 @@ String role="";
             }
 
             SendMail send = new SendMail();
-            send.SendGmail(gmail, "Create Account", "Welcom to Front Shop! We have created an account for you as role is " + role + " with gmail: " + gmail + " and password: 123456789a ");
+            send.SendGmail(gmail, "Create Account", "Welcom to Clothes Store ! We have created an account for you as role is " + role + " with gmail: " + gmail + " and password: 123456789a ");
             request.setAttribute("gender", gender);
             request.setAttribute("role", roleid);
             request.setAttribute("gmail", gmail);

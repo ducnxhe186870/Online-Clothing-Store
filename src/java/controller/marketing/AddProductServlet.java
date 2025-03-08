@@ -16,10 +16,6 @@ import models.Categories;
 import models.Product;
 import utlis.GetParam;
 
-/**
- *
- * @author dinhd513
- */
 public class AddProductServlet extends HttpServlet {
 
     /**

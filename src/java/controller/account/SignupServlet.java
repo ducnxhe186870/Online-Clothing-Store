@@ -99,9 +99,9 @@ public class SignupServlet extends HttpServlet {
                 String subject = "Verification Email";
                 String text = "Hello\n"
                         + "\n"
-                        + "You have registered an account on the Front website, before you can use your account you need to verify that this is your email. here is your code:\n " + code + "\n"
+                        + "You have registered an account on the Clothes Store  website, before you can use your account you need to verify that this is your email. here is your code:\n " + code + "\n"
                         + "\n"
-                        + "Kind Regards, Front";
+                        + "Kind Regards, Clothes Store ";
                 SendMail send = new SendMail();
                 send.SendGmail(gmail, subject, text);
                 request.getRequestDispatcher("../view/VerificationEmail.jsp").forward(request, response);

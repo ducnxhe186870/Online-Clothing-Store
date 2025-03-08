@@ -189,7 +189,7 @@
                 <h3>A. Nguyên Tắc Chung:</h3>
                 <p>1. Chính sách bảo mật thông tin này (“Chính Sách Bảo Mật Clothes Store”) mô tả cách thức cửa hàng Clothes Store (“Clothes Store” hoặc “chúng tôi”) thu thập, tiếp nhận, tổng hợp, lưu giữ, sử dụng, xử lý, tiết lộ, chia sẻ và bảo đảm an toàn thông tin của các tổ chức, cá nhân (“Người Dùng” hoặc “Quý Khách”),
                     bao gồm khách hàng, đại lý, đối tác:
-                    (i) truy cập, sử dụng các kênh tương tác khách hàng thuộc sở hữu của cửa hàng, bao gồm nhưng không giới hạn: ứng dụng di động Clothes Store, website www.Clothes Store.com, và hội nhóm trên các trang mạng xã hội (như facebook, Instagram, Tiktok …) 
+                    (i) truy cập, sử dụng các kênh tương tác khách hàng thuộc sở hữu của cửa hàng, bao gồm nhưng không giới hạn: ứng dụng di động Clothes Store, website www.ClothesStore.com, và hội nhóm trên các trang mạng xã hội (như facebook, Instagram, Tiktok …) 
                     thuộc sở hữu của cửa hàng(“Kênh Clothes Store”); 
                     (ii) là khách hàng thân thiết trong Chương trình Chăm Sóc Khách Hàng Thân Thiết của Clothes Store (“Chương Trình”); và/hoặc (iii) mua bán các loại hàng hóa do Clothes Store cung cấp (mục (i), (ii) và (iii) gọi chung là “Dịch Vụ”).
                     Vui lòng đọc kỹ Chính Sách Bảo Mật Clothes Store này, các điều khoản điều kiện tương ứng và các quy định khác (nếu có).

@@ -13,15 +13,12 @@ import javax.mail.Transport;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
-/**
- *
- * @author dinhd513
- */
+
 public class SendMail {
 
     public void SendGmail(String sendToGmail, String supject, String text) {
-        String from = "dinhd513@gmail.com";
-        String pass = "xkctidnkhnyupnrl";
+        String from = "nguyenxuanduc121104@gmail.com";
+        String pass = "Duc12112004";
 
         // Cài đặt thuộc tính host, port, protocol cho session
         Properties props = new Properties();
